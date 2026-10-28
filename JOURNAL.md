@@ -4,7 +4,7 @@
 
 ## Entry 1: Starting the Website
 
-**Date: -**
+**Date: October 20, 2026**
 
 I started working on my Secret Letters website as part of my Pixl project. The idea was to create a website where people could write anonymous letters to someone, and other people could read them. I also wanted people to be able to search for letters by the recipient's name.
 
@@ -56,7 +56,7 @@ Entry 7: Styling the Search Bar and Form
 
 Date: October 26, 2026
 
-I started working on making the search bar and letter-writing form prettier. I wanted to use a soft cream-and-white aesthetic with rounded corners and a clean layout.
+I started working on making the search bar and letter-writing form prettier. I wanted to use a soft cream-pink and-white aesthetic with rounded corners and a clean layout.
 
 I also started learning how to style HTML elements using CSS selectors. I wanted to learn how to write the CSS myself instead of just copying code, so I could understand how to design my own website.
 
