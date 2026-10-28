@@ -8,15 +8,15 @@
 
 I started working on my Secret Letters website as part of my Pixl project. The idea was to create a website where people could write anonymous letters to someone, and other people could read them. I also wanted people to be able to search for letters by the recipient's name.
 
-I wanted the website to look simple, pretty, and minimalistic. I knew I would need to learn HTML, CSS, and JavaScript to make the website work properly.
+I wanted the website to look simple, pretty, and minimalistic. I knew I would need to perfect JavaScript to make the website work properly.
 
 ## Entry 2: Creating the HTML Pages
 
-**Date: -**
+**Date: 23, october**
 
 I started creating the different pages for my website. I made separate HTML files for the home page, writing letters, reading letters, and other parts of the site.
 
-I also organized my files into a project folder so I could work on each part separately. I learned that HTML is used to structure the pages, while CSS controls how they look and JavaScript makes them interactive.
+I also organized my files into a project folder so I could work on each part separately.
 
 ## Entry 3: Working on the Design
 
@@ -30,7 +30,7 @@ I worked on things like headings, buttons, backgrounds, fonts, and positioning e
 
 **Date: -**
 
-I wanted the letters submitted through my website to be saved somewhere instead of just appearing temporarily on the page. I worked on connecting the website to Google Sheets using Google Apps Script.
+I wanted the letters submitted through my website to be saved somewhere instead of just appearing temporarily on the page.So I worked on saving them to supabase, but it was giving me a hard time so i switched to google spreadsheets. I worked on connecting the website to Google Sheets using Google Apps Script.
 
 This part took some debugging because I ran into errors with the code and the connection. I had to fix the script and check that the correct spreadsheet and sheet were being used.
 
@@ -44,33 +44,27 @@ After getting the letters to save in Google Sheets, I worked on displaying them 
 
 I worked on using JavaScript to retrieve the saved letters and display them on the page. This was an important step because it connected the website's design to the actual data being stored.
 
-Entry 6: Fixing the Search Feature
+## Entry 6: Fixing the Search Feature
 
-Date: October 26, 2026
+**Date: October 26, 2026**
 
 The letters were appearing on my website, but the search feature wasn't working properly. I checked my HTML and found that the label's for attribute didn't match the search input's ID.
 
 I fixed the mismatch and tested the search again. It worked! This taught me that even small differences in HTML can affect how parts of a website work.
 
-Entry 7: Styling the Search Bar and Form
+## Entry 7: Styling the Search Bar and Form
 
-Date: October 26, 2026
+**Date: October 26, 2026**
 
 I started working on making the search bar and letter-writing form prettier. I wanted to use a soft cream-pink and-white aesthetic with rounded corners and a clean layout.
-
-I also started learning how to style HTML elements using CSS selectors. I wanted to learn how to write the CSS myself instead of just copying code, so I could understand how to design my own website.
-
-Entry 8: Working on Cursor and Spacing
-
-Date: October 26, 2026
 
 I experimented with changing the cursor on my website and adding space between the letters. I learned about the cursor property and how CSS classes can be used to style elements.
 
 I also tried adding spacing to the letter cards, but the space appeared between the example letter and its Read More button instead of between the individual letters. I still need to figure out exactly which element to style so the spacing works properly.
 
-Entry 9: What I Learned So Far
+## Entry 9: What I Learned So Far
 
-Date: -
+**Date: -**
 
 Working on Secret Letters has helped me learn more about HTML, CSS, JavaScript, and connecting a website to Google Sheets.
 
@@ -97,17 +91,3 @@ Project Milestones
 -Started improving the search bar and letter-writing form.
 
 -Experimented with cursor styling and spacing between letters.
-
--Continued learning how to write CSS independently.
-
-## Next Steps:
-
-Fix the spacing between individual letter cards.
-
-Continue improving the search bar and writing form.
-
-Make the website look consistent across all pages.
-
-Test the website thoroughly before sharing it with others.
-
-Add appropriate privacy and safety protections for anonymous letters.
