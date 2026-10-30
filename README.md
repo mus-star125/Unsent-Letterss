@@ -59,12 +59,17 @@ Vercel: Website hosting
 
 Homepage
 
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 3 20 43 PM" src="https://github.com/user-attachments/assets/5fe435bb-e161-48c8-b870-7769af77c9db" />
 
 
 Write a Letter
 
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 3 20 40 PM" src="https://github.com/user-attachments/assets/28a75e20-ba14-4e73-abbe-49ff5c2a46f6" />
+
 
 Read Letters
+
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 3 20 34 PM" src="https://github.com/user-attachments/assets/2ca1e91b-d615-4272-a3f3-da9a9bc4f3f2" />
 
 
 Privacy Reminder:
