@@ -6,7 +6,7 @@
 
 **Date: October 20, 2026**
 
-I started working on my Secret Letters website as part of my Pixl project. The idea was to create a website where people could write anonymous letters to someone, and other people could read them. I also wanted people to be able to search for letters by the recipient's name.
+I started working on my Secret Letters website as part of a Pixl project. The idea was to create a website where people could write anonymous letters to someone, and other people could read them. I also wanted people to be able to search for letters by the recipient's name.
 
 I wanted the website to look simple, pretty, and minimalistic. I knew I would need to perfect JavaScript to make the website work properly.
 
@@ -62,15 +62,19 @@ I experimented with changing the cursor on my website and adding space between t
 
 I also tried adding spacing to the letter cards, but the space appeared between the example letter and its Read More button instead of between the individual letters. I still need to figure out exactly which element to style so the spacing works properly.
 
+## Entry 8: final touches
+**Date:October 29th, 2026**
+
+Today was spent on the last few touches, decorating and beautifying the website to the best of my abilities. CSS day! hehe
+
 ## Entry 9: What I Learned So Far
 
-**Date: -**
+**Date: October 30th, 2026**
 
 Working on Secret Letters has helped me learn more about HTML, CSS, JavaScript, and connecting a website to Google Sheets.
 
 I also learned that building a website takes a lot of testing and debugging. Sometimes a small error can stop a feature from working, and I have to figure out what went wrong.
 
-I'm still working on improving the design and learning how to code independently. I want the website to look good, work properly, and feel like something I created myself.
 
 Project Milestones
 
