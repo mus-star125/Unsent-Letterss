@@ -9,7 +9,7 @@ Some things are easier to write than to say.
 
 Unsent Letters is a website built around the idea of writing letters that you may never get the chance to send.
 
-It gives people a place to put their thoughts into words, share letters anonymously, and discover letters written for someone using a recipient name or nickname.
+It gives people a place to put their thoughts into words, share letters anonymously, and discover letters written for someone using a name or nickname.
 
 The idea is simple: sometimes, you have something to say, even if you don't know how to say it to someone directly.
 
@@ -17,7 +17,7 @@ The idea is simple: sometimes, you have something to say, even if you don't know
 
 I wanted to create something that felt personal, simple, and meaningful. I was interested in building a website that wasn't just another regular webpage, but something people could interact with and connect to.
 
-I came up with the idea of an online space for unsent letters. visitors can write their thoughts and leave them on the website for someone to find, they can also read others letters!
+I came up with the idea of an online space for unsent letters. ppl can write their thoughts and leave them on the website for someone to find, they can also read others letters!
 
 I also wanted to challenge myself and learn more about web development.
 
@@ -39,7 +39,7 @@ CSS: Styling, layout, and design
 
 JavaScript: Website functionality and interactions
 
-Google Sheets / Apps Script: Letter storage and retrieval, if enabled
+Google Sheets / Apps Script: Letter storage 
 
 Vercel: Website hosting
 
@@ -98,7 +98,7 @@ Building Unsent letters has been a learning experience. Throughout the process, 
 
 # Troubleshooting errors and debugging code.
 
-One of the biggest parts of this project has been learning how the different pieces of a website work together, rather than just focusing on how the final page looks.
+One of the biggest parts of this project has been learning how the different pieces of a website work together, I often forgot the semicolons 😭
 
 Future Improvements
 
