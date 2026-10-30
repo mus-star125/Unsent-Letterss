@@ -112,5 +112,6 @@ Adding more privacy features.
 
 # Credits
 Cute cursor: https://www.rw-designer.com/cursor-set/handstarkcsmimidestino
+
 Music: https://pixabay.com/users/artur_aravidi_music-37133175/
 
