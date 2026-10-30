@@ -23,19 +23,19 @@ I also wanted to challenge myself and learn more about web development.
 
 # Features
 
-Write a letter: Visitors can write a letter addressed to a name or nickname.
+Write a letter: Visitors can write a letter to a name or nickname.
 
 Discover letters: Visitors can search for letters using the recipient's name.
 
 Read letters: Matching letters can be displayed for visitors to read.
 
-cutw design: A clean, simple interface designed to keep the focus on the letters.
+cutw design: A clean, simple design to keep the focus on the letters.
 
 # Technology
 
 HTML: Structuring the website
 
-CSS: Styling, layout, and design (duh)
+CSS: Styling, layout, and design 
 
 JavaScript: Website functionality and interactions
 
@@ -57,17 +57,17 @@ Vercel: Website hosting
 
 # Screenshots
 
-Homepage
+Homepage:
 
 <img width="1920" height="1080" alt="Screenshot 2026-10-30 3 20 43 PM" src="https://github.com/user-attachments/assets/5fe435bb-e161-48c8-b870-7769af77c9db" />
 
 
-Write a Letter
+Write a Letter:
 
 <img width="1920" height="1080" alt="Screenshot 2026-10-30 3 20 40 PM" src="https://github.com/user-attachments/assets/28a75e20-ba14-4e73-abbe-49ff5c2a46f6" />
 
 
-Read Letters
+Read Letters:
 
 <img width="1920" height="1080" alt="Screenshot 2026-10-30 3 20 34 PM" src="https://github.com/user-attachments/assets/2ca1e91b-d615-4272-a3f3-da9a9bc4f3f2" />
 
@@ -75,6 +75,11 @@ Read Letters
 Privacy Reminder:
 
 Unsent letters is a public website. Letters submitted may be visible to other visitors. Visitors should avoid including personal, identifying, or sensitive information in their letters.
+
+# Demo
+
+[Screen recording 2026-10-30 3.29.46 PM.webm](https://github.com/user-attachments/assets/e195de24-be5d-40e0-8019-b87859a84061)
+
 
 # Challenges & What I Learned:
 
@@ -101,13 +106,9 @@ Some ideas I would like to explore in the future include:
 
 Improving the search experience.
 
-Making the website more responsive on mobile devices.
+Making the website better on mobile devices.
 
-Adding more privacy and moderation features.
+Adding more privacy features.
 
-Improving the visual design and interactions.
-
-Expanding the ways visitors can discover letters.
-
-# credits
+# Credits
 
