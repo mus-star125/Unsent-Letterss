@@ -43,6 +43,8 @@ Google Sheets / Apps Script: Letter storage
 
 Vercel: Website hosting
 
+Canva: designing the logo and letters
+
 # How It Works
 
 1) A visitor opens the web.
